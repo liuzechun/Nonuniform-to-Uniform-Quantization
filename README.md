@@ -97,7 +97,7 @@ W2/A2, W3/A3, W4/A4 denote the cases where the weights and activations are both 
 
 | Network | Methods | W4/A4 |
 | --- | --- | --- | 
-| MobileNet-V2 | **N2UQ** \* | **72.1** [Model-MBV2-4bit](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EYejI78B4TBFvG4d_nSPDfYBCkiv9QJKiBaMl8kJqzg5Xw?e=8UeKFm) |
+| MobileNet-V2 | **N2UQ** | **72.1** [Model-MBV2-4bit](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EYejI78B4TBFvG4d_nSPDfYBCkiv9QJKiBaMl8kJqzg5Xw?e=8UeKFm) |
 
 ## Contact
 
